@@ -1,6 +1,6 @@
 ![Banner](https://your-banner-link.com)
 
-# Hi 👋, I'm [Your Name]  
+# Hi 👋, I'm Priyans Patel  
 **MERN Developer | DSA Enthusiast | Crafting scalable solutions 🚀**
 
 ---
