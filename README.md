@@ -1,13 +1,13 @@
-![Banner](https://your-banner-link.com)
+![Banner]([https://your-banner-link.com](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
 
 # Hi 👋, I'm Priyans Patel  
-**MERN Developer | DSA Enthusiast | Crafting scalable solutions 🚀**
+**MERN Stack Developer | DSA Enthusiast | Crafting scalable solutions 🚀**
 
 ---
 
-- 🌱 I’m currently learning **[Your Skills]**  
+- 🌱 I’m currently learning ** Full Stack Developer **  
 - 👯 I’m looking to collaborate on **Fullstack projects**  
-- 💬 Ask me about **JavaScript, React, Next.js, C++, AWS and Software Development**  
+- 💬 Ask me about **HTML , CSS , Bootstrap , JavaScript, C , C++, Software Development**  
 - ⚡ Fun fact: I love **creating & solving errors** 😅  
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 📬 Let's Connect!  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 Mail me at **youremail@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/priyanspatel23)  
+- 📧 Mail me at **priyansbhai250@gmail.com**  
 
 ✨ Thanks for visiting my profile! Let’s create something amazing together 🚀
