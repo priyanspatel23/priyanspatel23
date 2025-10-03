@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](www.linkedin.com/in/priyans-patel-074342307)
+[![LinkedIn](https://www.linkedin.com/in/priyans-patel-074342307/)
 
 ---
 
