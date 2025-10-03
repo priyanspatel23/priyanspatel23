@@ -1,4 +1,4 @@
-![Banner][https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif]
+![Banner](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png)
 
 # Hi 👋, I'm Priyans Patel  
 **MERN Stack Developer | DSA Enthusiast | Crafting scalable solutions 🚀**
