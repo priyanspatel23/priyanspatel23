@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAGpRUEroWo/VygF3oOfzgcnpNC7cCl3CA/view)
+![Banner](https://www.canva.com/design/DAGpRUEroWo/B0cj0_chUkDxy9RCwVZYYQ/edit?utm_content=DAGpRUEroWo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Hi 👋, I'm Priyans Patel  
 **MERN Stack Developer | DSA Enthusiast | Crafting scalable solutions 🚀**
