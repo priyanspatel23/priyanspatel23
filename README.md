@@ -13,8 +13,7 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/priyans-patel-074342307/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyans-patel-074342307/) 
 ---
 
 ## 🛠 Languages and Tools
